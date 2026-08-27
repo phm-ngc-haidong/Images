@@ -603,7 +603,7 @@ scene.add(planet);
 
 // Tạo các vòng chứa quanh hành tinh
 const ringTexts = [
-   '-----',   
+   '-----~~~~~',   
 ]; 
  
 function createTextRings() {
