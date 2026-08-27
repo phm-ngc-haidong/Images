@@ -84,7 +84,7 @@ const galaxyParameters = {
 // Ảnh trong trái tim
 const heartImages = Array.from(
                     {length: 13}, 
-                    (_,i) => `images/img${i}.png`
+                    (_,i) => `img${i}.png`
                     );
   
          
@@ -603,7 +603,8 @@ scene.add(planet);
 
 // Tạo vòng chứa bằng Texts quanh hành tinh
 const ringTexts = [
-    '   ', 
+    '', 
+    '---',
     '♤♤♤', 
     '♧♧♧', 
     '◇◇◇', 
@@ -612,6 +613,7 @@ const ringTexts = [
 
 // Tạo vòng chứa bằng Images quanh hành tinh
 const ringImages = [
+    '',
     'img8.png',
     'img9.png',
     'img10.png',
