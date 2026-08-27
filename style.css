@@ -22,7 +22,7 @@
     background-position: center;
     z-index: 11;
     opacity: 0.8; 
-    background-image: url('../images/img1.png');
+    background-image: url('img1.png');
     position: fixed;
     width: 11vw;
     height: 21vh; 
@@ -40,7 +40,7 @@
     background-position: center;
     z-index: 11;
     opacity: 0.8; 
-    background-image: url('../images/img2.png');
+    background-image: url('img2.png');
     position: fixed;
     width: 11vw;
     height: 21vh;
@@ -58,7 +58,7 @@
     background-position: center;
     z-index: 11;
     opacity: 0.8; 
-    background-image: url('../images/img3.png');
+    background-image: url('img3.png');
     position: fixed;
     width: 11vw; 
     height: 21vh;
@@ -76,7 +76,7 @@
     background-position: center;
     z-index: 11;
     opacity: 0.8; 
-    background-image: url('../images/img4.png');
+    background-image: url('img4.png');
     position: fixed;
     width: 11vw;
     height: 21vh; 
