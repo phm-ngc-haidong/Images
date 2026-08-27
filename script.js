@@ -84,7 +84,7 @@ const galaxyParameters = {
 // Ảnh trong trái tim
 const heartImages = Array.from(
                     {length: 13}, 
-                    (_,i) => `images/img${i}.png`
+                    (_,i) => `img${i}.png`
                     );
   
          
