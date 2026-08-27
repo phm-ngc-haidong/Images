@@ -603,7 +603,7 @@ scene.add(planet);
 
 // Tạo vòng chứa bằng Texts quanh hành tinh
 const ringTexts = [
-    '---', 
+    '   ', 
     '♤♤♤', 
     '♧♧♧', 
     '◇◇◇', 
@@ -612,11 +612,11 @@ const ringTexts = [
 
 // Tạo vòng chứa bằng Images quanh hành tinh
 const ringImages = [
-    'images/img8.png',
-    'images/img9.png',
-    'images/img10.png',
-    'images/img11.png',
-    'images/img18.png',
+    'img8.png',
+    'img9.png',
+    'img10.png',
+    'img11.png',
+    'img18.png',
 ];
 
 // Danh sách tất cả các vòng
